@@ -22,11 +22,14 @@
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Classified using Jenk’s natural-break classification method&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="80" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-4" target="TH8gpv6u57OxP0Jq2p1X-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-4" value="Risk classes Mapped:&lt;div&gt;&lt;i&gt;low,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;moderate, high &amp;amp; very high &lt;/i&gt;for individual hazards&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="515" y="180" width="130" height="66" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pourghasemi et.&lt;br&gt;al, 2020&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="145" width="180" height="90" as="geometry" />
+          <mxGeometry x="670" y="120" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-8" target="TH8gpv6u57OxP0Jq2p1X-10">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +61,7 @@
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-12" target="TH8gpv6u57OxP0Jq2p1X-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TH8gpv6u57OxP0Jq2p1X-12" value="Boruta algorithm for ranking Conditioning Factors" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-12" value="&lt;i&gt;Boruta&lt;/i&gt; algorithm for ranking Conditioning Factors" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="335" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-13" value="Risk classes Mapped:&lt;div&gt;&lt;i&gt;low,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;moderate, high &amp;amp; very high &lt;/i&gt;for individual hazards&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -72,6 +75,9 @@
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-20" value="&amp;nbsp;human factors" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="435" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-24" value="MHPM (Multi-Hazard Probability Maps)" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="183" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

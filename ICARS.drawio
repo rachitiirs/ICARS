@@ -64,7 +64,7 @@
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-12" value="&lt;i&gt;Boruta&lt;/i&gt; algorithm for ranking Conditioning Factors" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="335" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TH8gpv6u57OxP0Jq2p1X-13" value="Risk classes Mapped:&lt;div&gt;&lt;i&gt;low,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;moderate, high &amp;amp; very high &lt;/i&gt;for individual hazards&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-13" value="Random Forest Classifier" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="515" y="435" width="130" height="66" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pourghasemi et.&lt;br&gt;al, 2020, &lt;i&gt;Scientific Reports&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

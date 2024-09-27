@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="875" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -90,36 +90,59 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-29" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="670" width="150" height="70" as="geometry" />
+          <mxGeometry x="135" y="700" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-31" target="TH8gpv6u57OxP0Jq2p1X-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="735" />
+              <mxPoint x="490" y="735" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-31" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Data Pairing and Selection&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="675" width="140" height="60" as="geometry" />
+          <mxGeometry x="324" y="705" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-35" target="TH8gpv6u57OxP0Jq2p1X-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TH8gpv6u57OxP0Jq2p1X-35" value="Risk classes Mapped:&lt;div&gt;&lt;i&gt;low,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;moderate, high &amp;amp; very high &lt;/i&gt;for individual hazards&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="329" y="778" width="130" height="66" as="geometry" />
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-35" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bivariate joint Return Period Estimation&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="819" width="139" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="TH8gpv6u57OxP0Jq2p1X-36" value="MHPM (Multi-Hazard Probability Maps)" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="778" width="120" height="60" as="geometry" />
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-36" target="TH8gpv6u57OxP0Jq2p1X-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-36" value="Vine Copula approach : modeling complex dependence structures among multiple variables" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="824" width="140" height="82" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-41" target="TH8gpv6u57OxP0Jq2p1X-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TH8gpv6u57OxP0Jq2p1X-41" value="Statistical analysis of individual hazard&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;Marginal Distribution Estimation :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Peaks-Over-Threshold (POT), G&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;eneralized Pareto distribution (GPD),&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Goodness-of-fit statistics - Kolmogorov-Smirnov test&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="675" width="240" height="95" as="geometry" />
+          <mxGeometry x="492.5" y="690" width="240" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="TH8gpv6u57OxP0Jq2p1X-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-38">
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-38" target="TH8gpv6u57OxP0Jq2p1X-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TH8gpv6u57OxP0Jq2p1X-38" value="Statistical modeling for multivariate hazards" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="505" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-38" value="Statistical modeling for multivariate hazards :&amp;nbsp;&lt;div&gt;Spearman&#39;s ρ and Kendall&#39;s τ,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Dependency Structure Analysis -&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Analyze relationships between random variables using&amp;nbsp;&lt;/div&gt;&lt;div&gt;Copula-Based Framework&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="505" y="810" width="215" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-46" target="TH8gpv6u57OxP0Jq2p1X-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-46" value="Return Periods of The Tri-Variate Case" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TH8gpv6u57OxP0Jq2p1X-48" target="TH8gpv6u57OxP0Jq2p1X-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-48" value="Three-Dimensional Vine and Pair Copula Construction" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TH8gpv6u57OxP0Jq2p1X-51" value="Results Interpretation" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="554" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

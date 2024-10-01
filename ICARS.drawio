@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="875" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -153,14 +153,11 @@
         <mxCell id="uckMO3cgICykp_9AKbRy-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Bias Correction of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GCM precip, temp, and relative humidity&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;using QM&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344" y="1105" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uckMO3cgICykp_9AKbRy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uckMO3cgICykp_9AKbRy-3" target="uckMO3cgICykp_9AKbRy-7">
+        <mxCell id="uckMO3cgICykp_9AKbRy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uckMO3cgICykp_9AKbRy-3" target="uckMO3cgICykp_9AKbRy-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="649.5" y="1135" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="680" y="1135" />
-              <mxPoint x="680" y="1280" />
-              <mxPoint x="650" y="1280" />
-            </Array>
+            <mxPoint x="530" y="1135" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uckMO3cgICykp_9AKbRy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uckMO3cgICykp_9AKbRy-7" target="uckMO3cgICykp_9AKbRy-15">
@@ -170,8 +167,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uckMO3cgICykp_9AKbRy-7" value="&lt;div&gt;estimate the marginal distributions of HS and&lt;/div&gt;&lt;div&gt;PR&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="509.5" y="1240" width="140" height="82" as="geometry" />
+        <mxCell id="uckMO3cgICykp_9AKbRy-7" value="&lt;div&gt;estimate the marginal distributions of HS and&lt;/div&gt;&lt;div&gt;PR using&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;parametric distributions (i.e.,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Gamma, GEV, Weibull, Normal, and Log-normal)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="515" y="1090" width="235" height="98" as="geometry" />
         </mxCell>
         <mxCell id="uckMO3cgICykp_9AKbRy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uckMO3cgICykp_9AKbRy-13" target="uckMO3cgICykp_9AKbRy-16">
           <mxGeometry relative="1" as="geometry">

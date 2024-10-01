@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1235" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -160,10 +160,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uckMO3cgICykp_9AKbRy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uckMO3cgICykp_9AKbRy-7" target="uckMO3cgICykp_9AKbRy-15">
+        <mxCell id="uckMO3cgICykp_9AKbRy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.481;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.502;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uckMO3cgICykp_9AKbRy-7" target="uckMO3cgICykp_9AKbRy-15">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="628" y="1229" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="1281" />
+              <mxPoint x="628" y="1210" />
+              <mxPoint x="628" y="1210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -182,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uckMO3cgICykp_9AKbRy-15" value="&lt;div&gt;Bivariate copulas&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Gaussian&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;copula,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Student’s t copula,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Frank copula,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Clayton copula, and&lt;/div&gt;&lt;div&gt;Gumbel copula) to link the marginal distributions&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="1312" width="210" height="121" as="geometry" />
+          <mxGeometry x="522.5" y="1230" width="210" height="121" as="geometry" />
         </mxCell>
         <mxCell id="uckMO3cgICykp_9AKbRy-16" value="Results Interpretation" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="572.5" y="1421" width="120" height="60" as="geometry" />

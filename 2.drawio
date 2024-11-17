@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="ublUtS6lyacr46dRWQ9i">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="-535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-3" target="GG12PDIZpEiIWDHQdL4b-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-3" target="GG12PDIZpEiIWDHQdL4b-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-3" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Data Collection&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(RCMs, Weather, Rice, Soil data)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="1190" width="515" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-5" target="GG12PDIZpEiIWDHQdL4b-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-5" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Bias Correction&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1280" width="330" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-7" target="GG12PDIZpEiIWDHQdL4b-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-7" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;AquaCrop&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(calibration and validation)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1280" width="330" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-9" target="GG12PDIZpEiIWDHQdL4b-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-9" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Performance Evaluation&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(mean, R&lt;sup&gt;2&lt;/sup&gt;, SD)&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1370" width="330" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-11" target="GG12PDIZpEiIWDHQdL4b-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-11" value="&lt;p style=&quot;line-height: 6px;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Performance Evaluation&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 6px;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(mean, R&lt;sup&gt;2&lt;/sup&gt;, RMSE)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1370" width="330" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-14" target="GG12PDIZpEiIWDHQdL4b-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-14" target="GG12PDIZpEiIWDHQdL4b-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-14" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 170%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Near-future climate projection &lt;/b&gt;under&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;RCP 4.5 and RCP 8.5 scenarios for 2050&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1460" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-15" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Future Water Footprint simulation&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1562" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-17" target="GG12PDIZpEiIWDHQdL4b-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-17" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 140%;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Yield simulation,&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;IWR, CWR &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;under&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;RCP 4.5 and RCP 8.5 scenarios for 2050&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1562" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GG12PDIZpEiIWDHQdL4b-19" target="GG12PDIZpEiIWDHQdL4b-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GG12PDIZpEiIWDHQdL4b-19" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Yield simulation, &lt;/b&gt;IWR, CWR under present condition&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A1A1A;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1460" width="330" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
